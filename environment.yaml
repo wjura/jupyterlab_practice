@@ -1,0 +1,21 @@
+name: base
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - conda==23.1.0
+  - setuptools
+  - pip
+  - wheel
+  - conda-content-trust
+  - menuinst
+  - console_shortcut_miniconda
+  - powershell_shortcut_miniconda
+  - pandas
+  - jupyterlab
+  - jupyterlab-spellchecker
+  - pyppeteer
+  - jupyterlab-git
+  - nb_conda_kernels
+prefix: D:\Programy\Conda
